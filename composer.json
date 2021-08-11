@@ -1,0 +1,15 @@
+{
+    "name": "alfreddagenais/phpunit5-test-listener-pikachu",
+    "description": "Implementing a Test Listener in PHPUnit 5",
+    "authors": [
+        {
+            "name": "Alfred Dagenais",
+            "email": "jesuis@alfreddagenais.com"
+        }
+    ],
+    "require-dev": {
+        "phan/phan": "^3.1",
+        "phpunit/dbunit": "^2",
+        "phpunit/phpunit": "^5"
+    }
+}
