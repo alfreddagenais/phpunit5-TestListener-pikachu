@@ -2,7 +2,7 @@
 <ruleset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="PHP_CnG">
     <description>The coding standard</description>
 
-    <exclude-pattern>*/tests/*/*\.(php|css|js)$</exclude-pattern>
+    <!-- <exclude-pattern>*/tests/*/*\.(php|css|js)$</exclude-pattern> -->
 
     <!-- Don't hide tokenizer exceptions -->
     <rule ref="Internal.Tokenizer.Exception">
